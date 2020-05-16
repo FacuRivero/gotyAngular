@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestore-graficos-ecbf5": {
+      "hosting": {
+        "gameOfTheYear": [
+          "firestore-graficos-ecbf5"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestore-graficos-ecbf5"
+  }
+}
